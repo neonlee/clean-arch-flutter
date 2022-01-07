@@ -1,0 +1,3 @@
+tem models para converter os dados entrados, alguns gostam de separar o fromjson e tojson em duas classes separadas
+sempre fazer os testes
+para implementar os testes de models use fixtures, são arquivos .json com os dados a serem usados
